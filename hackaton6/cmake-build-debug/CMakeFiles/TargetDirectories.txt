@@ -1,0 +1,3 @@
+B:/CProjects/hackaton6/cmake-build-debug/CMakeFiles/hackaton6.dir
+B:/CProjects/hackaton6/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CProjects/hackaton6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
